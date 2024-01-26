@@ -4,3 +4,6 @@ git status
 git add
 git commit
 git log
+Two tpyes of git repo
+1) public repo
+2) private repo
